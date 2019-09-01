@@ -1,0 +1,6 @@
+import "ApiRequest.proto";
+
+message EvolveHeroRequest{
+	optional ApiRequest api = 1;
+	optional int32 heroId = 2;
+}

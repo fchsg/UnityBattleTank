@@ -1,0 +1,5 @@
+message Hero{//英雄数据
+	optional int32 heroId = 1;
+	optional int32 exp = 2;//exp总值，level通过exp得到
+	optional int32 stage = 3;//阶级
+}

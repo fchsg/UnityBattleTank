@@ -1,0 +1,7 @@
+import "ApiResponse.proto";
+import "Unit.proto";
+
+message ProcessUnitResponse{
+	optional ApiResponse response = 1;//结果
+	optional Unit unit = 2;//最新unit数据
+}

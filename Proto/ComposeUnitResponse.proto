@@ -1,0 +1,7 @@
+import "ApiResponse.proto";
+import "Unit.proto";
+
+message ComposeUnitResponse{//用碎片合成Unit的结果
+	optional ApiResponse response = 1;//结果
+	optional Unit unit = 2;//新unit数据
+}

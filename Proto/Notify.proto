@@ -1,0 +1,12 @@
+import "PrizeItem.proto";
+
+message Notify{//通知
+	optional int32 notifyId = 1;//通知ID
+	optional string senderName = 2;//发送人
+	optional string title = 3;//标题
+	optional string content = 4;//正文
+	repeated PrizeItem prizeItems = 5;//奖品列表，显示在附件
+	optional int32 sendTime = 6;//发送时间的Unix时间戳
+	optional int32 isRead = 7;//是否已读，0：未读，1：已读
+	optional int32 disposed = 8;//是否已处理过，客户端用
+}

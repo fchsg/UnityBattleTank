@@ -1,0 +1,10 @@
+message Unit{//作战单位数据
+	optional int32 unitId = 1;//类型ID
+	optional int32 num = 2;//可分配给战斗队伍的数量
+	optional int32 onProduce = 3;//建造中的数量
+	optional int32 produceEndTime = 4;//距离建造结束时间（秒）
+	optional int32 produceTotalTime = 5;//当前建造总时间（秒）
+	optional int32 onRepair = 6;//修理中的数量
+    optional int32 onDamaged = 7;//待维修的数量
+    repeated int32 unitPartLevel = 8;//4个位置的部件等级，按照Unit配置中的顺序下发
+}

@@ -1,0 +1,4 @@
+message Task{//任务数据
+	optional int32 taskId = 1;//任务ID
+	optional int32 progress = 2;//已完成的进度
+}

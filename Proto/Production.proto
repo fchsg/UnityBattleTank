@@ -1,0 +1,4 @@
+message Production{//资源生产数据
+	optional int32 resourceType = 1;//资源类型
+	optional int32 num = 2;//当前持有的已生产的数量
+}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: suburb_top_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: d045657d67a0d444eb23baa7979edaf7, type: 3}
+  materials:
+  - {fileID: 2100000, guid: ccc2ca980a7b0424fabcfc5c06a138d1, type: 2}
+  - {fileID: 2100000, guid: ea8b6a21f6d1744618432aa01d981c34, type: 2}
+  - {fileID: 2100000, guid: f35fa55e92d3b452f87ba94815f424e8, type: 2}

@@ -1,0 +1,160 @@
+
+Number.png
+size: 1024,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+green_0
+  rotate: true
+  xy: 743, 25
+  size: 35, 48
+  orig: 37, 50
+  offset: 1, 1
+  index: -1
+green_1
+  rotate: true
+  xy: 942, 6
+  size: 26, 47
+  orig: 28, 49
+  offset: 1, 1
+  index: -1
+green_2
+  rotate: true
+  xy: 45, 21
+  size: 39, 48
+  orig: 41, 50
+  offset: 1, 1
+  index: -1
+green_3
+  rotate: true
+  xy: 395, 23
+  size: 37, 48
+  orig: 39, 50
+  offset: 1, 1
+  index: -1
+green_4
+  rotate: true
+  xy: 645, 22
+  size: 38, 47
+  orig: 40, 49
+  offset: 1, 1
+  index: -1
+green_5
+  rotate: true
+  xy: 694, 23
+  size: 37, 47
+  orig: 39, 49
+  offset: 1, 1
+  index: -1
+green_6
+  rotate: true
+  xy: 445, 23
+  size: 37, 48
+  orig: 39, 50
+  offset: 1, 1
+  index: -1
+green_7
+  rotate: true
+  xy: 893, 26
+  size: 34, 47
+  orig: 36, 49
+  offset: 1, 1
+  index: -1
+green_8
+  rotate: true
+  xy: 145, 22
+  size: 38, 48
+  orig: 40, 50
+  offset: 1, 1
+  index: -1
+green_9
+  rotate: true
+  xy: 195, 22
+  size: 38, 48
+  orig: 40, 50
+  offset: 1, 1
+  index: -1
+green_add
+  rotate: false
+  xy: 2, 13
+  size: 41, 47
+  orig: 43, 49
+  offset: 1, 1
+  index: -1
+red_0
+  rotate: true
+  xy: 793, 25
+  size: 35, 48
+  orig: 37, 50
+  offset: 1, 1
+  index: -1
+red_1
+  rotate: true
+  xy: 942, 34
+  size: 26, 48
+  orig: 28, 50
+  offset: 1, 1
+  index: -1
+red_2
+  rotate: true
+  xy: 95, 21
+  size: 39, 48
+  orig: 41, 50
+  offset: 1, 1
+  index: -1
+red_3
+  rotate: true
+  xy: 495, 23
+  size: 37, 48
+  orig: 39, 50
+  offset: 1, 1
+  index: -1
+red_4
+  rotate: true
+  xy: 245, 22
+  size: 38, 48
+  orig: 40, 50
+  offset: 1, 1
+  index: -1
+red_5
+  rotate: true
+  xy: 545, 23
+  size: 37, 48
+  orig: 39, 50
+  offset: 1, 1
+  index: -1
+red_6
+  rotate: true
+  xy: 595, 23
+  size: 37, 48
+  orig: 39, 50
+  offset: 1, 1
+  index: -1
+red_7
+  rotate: true
+  xy: 843, 26
+  size: 34, 48
+  orig: 36, 50
+  offset: 1, 1
+  index: -1
+red_8
+  rotate: true
+  xy: 295, 22
+  size: 38, 48
+  orig: 40, 50
+  offset: 1, 1
+  index: -1
+red_9
+  rotate: true
+  xy: 345, 22
+  size: 38, 48
+  orig: 40, 50
+  offset: 1, 1
+  index: -1
+red_sub
+  rotate: false
+  xy: 45, 2
+  size: 41, 17
+  orig: 43, 19
+  offset: 1, 1
+  index: -1

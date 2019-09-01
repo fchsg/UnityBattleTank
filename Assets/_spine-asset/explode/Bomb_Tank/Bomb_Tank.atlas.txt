@@ -1,0 +1,118 @@
+
+Bomb_Tank.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bomb_Tank_0
+  rotate: false
+  xy: 889, 716
+  size: 39, 66
+  orig: 41, 68
+  offset: 1, 1
+  index: -1
+Bomb_Tank_1
+  rotate: false
+  xy: 405, 135
+  size: 90, 107
+  orig: 92, 109
+  offset: 1, 1
+  index: -1
+Bomb_Tank_10
+  rotate: false
+  xy: 293, 244
+  size: 254, 234
+  orig: 256, 236
+  offset: 1, 1
+  index: -1
+Bomb_Tank_11
+  rotate: false
+  xy: 2, 2
+  size: 261, 234
+  orig: 263, 236
+  offset: 1, 1
+  index: -1
+Bomb_Tank_12
+  rotate: false
+  xy: 606, 716
+  size: 281, 234
+  orig: 283, 236
+  offset: 1, 1
+  index: -1
+Bomb_Tank_13
+  rotate: false
+  xy: 304, 480
+  size: 288, 234
+  orig: 290, 236
+  offset: 1, 1
+  index: -1
+Bomb_Tank_14
+  rotate: false
+  xy: 2, 480
+  size: 300, 234
+  orig: 302, 236
+  offset: 1, 1
+  index: -1
+Bomb_Tank_15
+  rotate: false
+  xy: 304, 716
+  size: 300, 234
+  orig: 302, 236
+  offset: 1, 1
+  index: -1
+Bomb_Tank_2
+  rotate: false
+  xy: 889, 784
+  size: 106, 166
+  orig: 108, 168
+  offset: 1, 1
+  index: -1
+Bomb_Tank_3
+  rotate: false
+  xy: 265, 48
+  size: 138, 188
+  orig: 140, 190
+  offset: 1, 1
+  index: -1
+Bomb_Tank_4
+  rotate: false
+  xy: 838, 492
+  size: 148, 222
+  orig: 150, 224
+  offset: 1, 1
+  index: -1
+Bomb_Tank_5
+  rotate: false
+  xy: 791, 265
+  size: 174, 207
+  orig: 176, 209
+  offset: 1, 1
+  index: -1
+Bomb_Tank_6
+  rotate: true
+  xy: 549, 260
+  size: 212, 240
+  orig: 214, 242
+  offset: 1, 1
+  index: -1
+Bomb_Tank_7
+  rotate: false
+  xy: 594, 474
+  size: 242, 240
+  orig: 244, 242
+  offset: 1, 1
+  index: -1
+Bomb_Tank_8
+  rotate: false
+  xy: 2, 238
+  size: 289, 240
+  orig: 291, 242
+  offset: 1, 1
+  index: -1
+Bomb_Tank_9
+  rotate: false
+  xy: 2, 716
+  size: 300, 234
+  orig: 302, 236
+  offset: 1, 1
+  index: -1

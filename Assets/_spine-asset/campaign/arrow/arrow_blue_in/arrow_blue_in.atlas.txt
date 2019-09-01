@@ -1,0 +1,13 @@
+
+arrow_blue_in.png
+size: 128,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrow_blue_in
+  rotate: false
+  xy: 2, 2
+  size: 70, 263
+  orig: 72, 265
+  offset: 1, 1
+  index: -1

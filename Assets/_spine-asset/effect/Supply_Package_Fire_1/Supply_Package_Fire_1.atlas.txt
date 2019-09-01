@@ -1,0 +1,13 @@
+
+Supply_Package_Fire_1.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Supply_Package_Fire_1
+  rotate: false
+  xy: 2, 2
+  size: 122, 97
+  orig: 122, 98
+  offset: 0, 1
+  index: -1

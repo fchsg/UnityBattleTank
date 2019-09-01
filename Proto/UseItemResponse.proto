@@ -1,0 +1,7 @@
+import "ApiResponse.proto";
+import "PrizeItem.proto";
+
+message UseItemResponse{
+	optional ApiResponse response = 1;
+	repeated PrizeItem prizeItems = 2;//时候后可能得到的PirzeItem
+}

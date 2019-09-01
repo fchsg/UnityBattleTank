@@ -1,0 +1,7 @@
+import "ApiResponse.proto";
+import "MultiPrizeItem.proto";
+
+message MultiFightResponse{//战斗结算结果
+	optional ApiResponse response = 1;
+	repeated MultiPrizeItem prizeItems = 2;//战斗胜利掉落的奖品
+}

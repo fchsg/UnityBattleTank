@@ -1,0 +1,6 @@
+message PrizeItem{//奖品定义，用于全部的掉落、发奖等事件
+	optional int32 type = 1;//由TypeDefine所定义的类型ID
+	optional int32 num = 2;//物品的数量
+	optional int32 itemId = 3;//如果该类型物品有ID，比如UnitPart，物品的ID
+	optional int32 itemLevel = 4;//如果该类型物品有等级，比如UnitPart，物品的等级
+}

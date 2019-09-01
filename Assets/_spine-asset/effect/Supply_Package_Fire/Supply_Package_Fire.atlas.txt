@@ -1,0 +1,76 @@
+
+Supply_Package_Fire.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Supply_Package_Fire_1
+  rotate: false
+  xy: 426, 59
+  size: 59, 56
+  orig: 61, 58
+  offset: 1, 1
+  index: -1
+Supply_Package_Fire_10
+  rotate: false
+  xy: 180, 109
+  size: 80, 144
+  orig: 82, 146
+  offset: 1, 1
+  index: -1
+Supply_Package_Fire_2
+  rotate: true
+  xy: 147, 22
+  size: 84, 124
+  orig: 86, 126
+  offset: 1, 1
+  index: -1
+Supply_Package_Fire_3
+  rotate: true
+  xy: 2, 4
+  size: 93, 143
+  orig: 95, 145
+  offset: 1, 1
+  index: -1
+Supply_Package_Fire_4
+  rotate: false
+  xy: 2, 99
+  size: 87, 154
+  orig: 89, 156
+  offset: 1, 1
+  index: -1
+Supply_Package_Fire_5
+  rotate: false
+  xy: 91, 108
+  size: 87, 145
+  orig: 89, 147
+  offset: 1, 1
+  index: -1
+Supply_Package_Fire_6
+  rotate: false
+  xy: 426, 117
+  size: 83, 136
+  orig: 85, 138
+  offset: 1, 1
+  index: -1
+Supply_Package_Fire_7
+  rotate: false
+  xy: 344, 112
+  size: 80, 141
+  orig: 82, 143
+  offset: 1, 1
+  index: -1
+Supply_Package_Fire_8
+  rotate: false
+  xy: 273, 2
+  size: 81, 107
+  orig: 83, 109
+  offset: 1, 1
+  index: -1
+Supply_Package_Fire_9
+  rotate: false
+  xy: 262, 111
+  size: 80, 142
+  orig: 82, 144
+  offset: 1, 1
+  index: -1

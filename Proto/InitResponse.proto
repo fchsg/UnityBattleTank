@@ -1,0 +1,8 @@
+import "ApiResponse.proto";
+import "FileDesc.proto";
+
+message InitResponse{
+	optional ApiResponse response = 1;//结果
+	optional string configUrl = 2;//配置文件URL，前端应拿现有文件名和历史文件名比对，如果不一致，则下载并处理新的配置文件
+	repeated FileDesc fileDesc = 3;//配置文件的描述信息，用于解压缩处理
+}

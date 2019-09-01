@@ -1,0 +1,81 @@
+
+city_top.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+city_ground_1
+  rotate: false
+  xy: 2, 2
+  size: 1020, 1020
+  orig: 1022, 1022
+  offset: 1, 1
+  index: -1
+
+city_top2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+city_ground_2
+  rotate: false
+  xy: 2, 2
+  size: 1020, 1020
+  orig: 1022, 1022
+  offset: 1, 1
+  index: -1
+
+city_top3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+city_build_1
+  rotate: true
+  xy: 660, 525
+  size: 56, 43
+  orig: 58, 45
+  offset: 1, 1
+  index: -1
+city_build_2
+  rotate: false
+  xy: 889, 988
+  size: 113, 34
+  orig: 115, 36
+  offset: 1, 1
+  index: -1
+city_build_3
+  rotate: false
+  xy: 660, 915
+  size: 227, 107
+  orig: 229, 109
+  offset: 1, 1
+  index: -1
+city_build_4
+  rotate: false
+  xy: 660, 795
+  size: 200, 118
+  orig: 202, 120
+  offset: 1, 1
+  index: -1
+city_build_5
+  rotate: false
+  xy: 708, 746
+  size: 91, 47
+  orig: 93, 49
+  offset: 1, 1
+  index: -1
+city_build_6
+  rotate: true
+  xy: 660, 583
+  size: 210, 46
+  orig: 212, 48
+  offset: 1, 1
+  index: -1
+city_ground_3
+  rotate: false
+  xy: 2, 2
+  size: 656, 1020
+  orig: 658, 1022
+  offset: 1, 1
+  index: -1

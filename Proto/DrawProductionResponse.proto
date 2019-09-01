@@ -1,0 +1,5 @@
+import "ApiResponse.proto";
+
+message DrawProductionResponse{
+	optional ApiResponse response = 1;//结果
+}

@@ -1,0 +1,6 @@
+import "ApiRequest.proto";
+
+message DrawTaskRewardRequest{//完成任务后领奖
+	optional ApiRequest api = 1;//接口基础数据
+	optional int32 taskId = 2;//任务ID
+}

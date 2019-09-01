@@ -1,0 +1,7 @@
+import "ApiResponse.proto";
+import "Hero.proto";
+
+message ComposeHeroResponse{//用碎片合成Hero的结果
+	optional ApiResponse response = 1;//结果
+	optional Hero hero = 2;//新hero数据
+}

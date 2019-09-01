@@ -1,0 +1,39 @@
+
+C_Lvcaodi.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Lvcaodi_1
+  rotate: false
+  xy: 2, 2
+  size: 718, 1002
+  orig: 720, 1004
+  offset: 1, 1
+  index: -1
+
+C_Lvcaodi2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Lvcaodi_2
+  rotate: false
+  xy: 2, 2
+  size: 718, 1002
+  orig: 720, 1004
+  offset: 1, 1
+  index: -1
+
+C_Lvcaodi3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Lvcaodi_3
+  rotate: false
+  xy: 2, 2
+  size: 638, 1002
+  orig: 640, 1004
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,7 @@
+import "ApiResponse.proto";
+import "PrizeItem.proto";
+
+message BuyShopItemResponses{
+	optional ApiResponse response = 1;//结果
+	optional PrizeItem prizeItem = 2;//购买的结果
+}

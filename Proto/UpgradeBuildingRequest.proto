@@ -1,0 +1,9 @@
+import "ApiRequest.proto";
+
+message UpgradeBuildingRequest{
+	optional ApiRequest api = 1;//接口基础数据
+	optional int32 buildingId = 2;//建筑物ID
+	optional int32 byCash = 3;//是否只消耗cash来完成升级，1：是；0：否
+	optional int32 buyQueue = 4;//是否消耗cash忽视建筑升级队列限制，1：是；0：否
+	optional int32 buyCd = 5;//是否消耗cash忽略剩余CD时间直接完成，1：是；0：否
+}

@@ -1,0 +1,8 @@
+message ApiRequest{//接口请求公用
+	optional string v = 1;//版本号，x.xx.xx
+	optional string callId = 2;//发起请求时的毫秒数，服务端以此为依据避免同样请求的重复提交
+	optional string sign = 3;//数据签名，各接口按照约定顺序把关键数据拼串后生成，用于数据校验
+	optional string ticket = 4;//登录接口不需要此票。登录后的接口请求需要验票。如果用户不是使用注册帐号登录，则该数据等于device_id
+	optional int32 s = 5;//接口请求来源, 0.production 1.dev
+	optional int32 snid = 6;//接口请求平台id
+}

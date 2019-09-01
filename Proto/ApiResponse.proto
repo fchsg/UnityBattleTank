@@ -1,0 +1,9 @@
+import "User.proto";
+import "Task.proto";
+
+message ApiResponse{//接口返回值公用
+	optional int32 error = 1;//错误代码，为空表示请求成功
+	optional User user = 2;//用户数据
+	optional int32 sysTime = 3;//当前的Unix时间戳
+	repeated Task tasks = 4;//任务进度数据
+}

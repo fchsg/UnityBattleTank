@@ -1,0 +1,6 @@
+import "ApiRequest.proto";
+
+message ReadNotifyRequest{//将通知设置为已读或者已经提取
+	optional ApiRequest api = 1;//接口基础数据
+	repeated int32 notifyIds = 2;//需要设置为已读的NotifyId列表
+}

@@ -1,0 +1,5 @@
+import "ApiResponse.proto";
+
+message CommonResponse{//普通返回数据，针对出现报错等情况，不附带其他数据
+	optional ApiResponse response = 1;//结果
+}

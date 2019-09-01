@@ -1,0 +1,6 @@
+import "ApiRequest.proto";
+
+message SetClientDataRequest{//存储ClientData
+	optional ApiRequest api = 1;//接口基础数据
+	repeated int32 clientData = 2;//客户端数据
+}

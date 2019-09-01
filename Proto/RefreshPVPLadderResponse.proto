@@ -1,0 +1,8 @@
+import "ApiResponse.proto";
+import "PVPUser.proto";
+
+message RefreshPVPLadderResponse{
+	optional ApiResponse response = 1;
+	repeated PVPUser opponents = 2;//对手的PVP用户信息
+	optional int32 refreshPrice = 3;//下一次刷新的价格
+}

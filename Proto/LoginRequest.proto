@@ -1,0 +1,7 @@
+import "ApiRequest.proto";
+
+message LoginRequest{//登录请求
+	optional ApiRequest api = 1;//接口基础数据
+	optional string userName = 2;//帐户名
+	optional int32 headPicId = 3;//头像ID，仅注册时需要
+}

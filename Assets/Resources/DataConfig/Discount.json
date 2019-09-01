@@ -1,0 +1,12 @@
+ [{"Type":"","ResourcesMin":"1000","FoodDiscount":"0.99","OilDiscount":"0.99","MetalDiscount":"0.99","RareDiscount":"0.99"}
+,{"Type":"","ResourcesMin":"5000","FoodDiscount":"0.97","OilDiscount":"0.97","MetalDiscount":"0.98","RareDiscount":"0.98"}
+,{"Type":"","ResourcesMin":"10000","FoodDiscount":"0.94","OilDiscount":"0.94","MetalDiscount":"0.96","RareDiscount":"0.97"}
+,{"Type":"","ResourcesMin":"50000","FoodDiscount":"0.9","OilDiscount":"0.9","MetalDiscount":"0.94","RareDiscount":"0.95"}
+,{"Type":"","ResourcesMin":"100000","FoodDiscount":"0.85","OilDiscount":"0.85","MetalDiscount":"0.91","RareDiscount":"0.93"}
+,{"Type":"","ResourcesMin":"500000","FoodDiscount":"0.79","OilDiscount":"0.79","MetalDiscount":"0.87","RareDiscount":"0.9"}
+,{"Type":"","ResourcesMin":"1000000","FoodDiscount":"0.73","OilDiscount":"0.73","MetalDiscount":"0.82","RareDiscount":"0.86"}
+,{"Type":"","ResourcesMin":"5000000","FoodDiscount":"0.66","OilDiscount":"0.66","MetalDiscount":"0.76","RareDiscount":"0.81"}
+,{"Type":"","ResourcesMin":"10000000","FoodDiscount":"0.59","OilDiscount":"0.59","MetalDiscount":"0.69","RareDiscount":"0.75"}
+,{"Type":"","ResourcesMin":"50000000","FoodDiscount":"0.52","OilDiscount":"0.52","MetalDiscount":"0.61","RareDiscount":"0.68"}
+,{"Type":"","ResourcesMin":"100000000","FoodDiscount":"0.45","OilDiscount":"0.45","MetalDiscount":"0.5","RareDiscount":"0.6"}
+]

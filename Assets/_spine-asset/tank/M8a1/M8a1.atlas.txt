@@ -1,0 +1,104 @@
+
+M8a1.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+M8a1_Barrel_100
+  rotate: false
+  xy: 654, 87
+  size: 94, 48
+  orig: 96, 50
+  offset: 1, 1
+  index: -1
+M8a1_Barrel_110
+  rotate: false
+  xy: 654, 39
+  size: 92, 46
+  orig: 94, 48
+  offset: 1, 1
+  index: -1
+M8a1_Barrel_120
+  rotate: false
+  xy: 763, 94
+  size: 89, 48
+  orig: 91, 50
+  offset: 1, 1
+  index: -1
+M8a1_Barrel_60
+  rotate: false
+  xy: 563, 78
+  size: 89, 53
+  orig: 91, 55
+  offset: 1, 1
+  index: -1
+M8a1_Barrel_70
+  rotate: false
+  xy: 904, 178
+  size: 91, 53
+  orig: 93, 55
+  offset: 1, 1
+  index: -1
+M8a1_Barrel_80
+  rotate: false
+  xy: 904, 127
+  size: 94, 49
+  orig: 96, 51
+  offset: 1, 1
+  index: -1
+M8a1_Barrel_90
+  rotate: false
+  xy: 466, 82
+  size: 95, 49
+  orig: 97, 51
+  offset: 1, 1
+  index: -1
+M8a1_Base_100
+  rotate: false
+  xy: 615, 137
+  size: 146, 94
+  orig: 148, 96
+  offset: 1, 1
+  index: -1
+M8a1_Base_110
+  rotate: false
+  xy: 313, 125
+  size: 151, 106
+  orig: 153, 108
+  offset: 1, 1
+  index: -1
+M8a1_Base_120
+  rotate: false
+  xy: 2, 2
+  size: 150, 113
+  orig: 152, 115
+  offset: 1, 1
+  index: -1
+M8a1_Base_60
+  rotate: false
+  xy: 2, 117
+  size: 154, 114
+  orig: 156, 116
+  offset: 1, 1
+  index: -1
+M8a1_Base_70
+  rotate: false
+  xy: 158, 124
+  size: 153, 107
+  orig: 155, 109
+  offset: 1, 1
+  index: -1
+M8a1_Base_80
+  rotate: false
+  xy: 466, 133
+  size: 147, 98
+  orig: 149, 100
+  offset: 1, 1
+  index: -1
+M8a1_Base_90
+  rotate: false
+  xy: 763, 144
+  size: 139, 87
+  orig: 141, 89
+  offset: 1, 1
+  index: -1

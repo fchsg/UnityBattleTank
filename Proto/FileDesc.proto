@@ -1,0 +1,5 @@
+message FileDesc{//配置文件描述，为前端解压缩处理用
+	optional string name = 1;//json文件名称，是哪个配置文件，例如Unit
+	optional int32 start = 2;//该文件在整个配置文件中的起始位置的字节数
+	optional int32 length = 3;//该文件的长度字节数
+}

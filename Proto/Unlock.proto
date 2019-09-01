@@ -1,0 +1,3 @@
+message Unlock{//因为某个操作导致发生解锁事件的解锁提示
+	optional int32 buildingId = 1;//如果解锁了建筑物的下一级升级，解锁的建筑id
+}

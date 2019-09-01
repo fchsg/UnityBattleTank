@@ -1,0 +1,13 @@
+
+Ctrl.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ctrl
+  rotate: false
+  xy: 2, 2
+  size: 60, 29
+  orig: 60, 29
+  offset: 0, 0
+  index: -1

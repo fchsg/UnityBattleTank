@@ -1,0 +1,8 @@
+import "ApiRequest.proto";
+import "Unit.proto";
+
+message RepairUnitRequest{//Unit维修、完成Unit维修时的请求
+	optional ApiRequest api = 1;//接口基础数据
+	repeated Unit units = 2;//需要维修的Unit数据，只需要unitId和num。finishRepairUnit时无需此参数
+	optional int32 buyCd = 3;//是否消耗cash忽略剩余CD时间直接完成，1：是；0：否
+}

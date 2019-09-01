@@ -1,0 +1,7 @@
+import "ApiResponse.proto";
+import "Item.proto";
+
+message EvolveHeroResponse{
+	optional ApiResponse response = 1;//结果
+	repeated Item items = 2;//进阶所消耗的道具的最新数量
+}

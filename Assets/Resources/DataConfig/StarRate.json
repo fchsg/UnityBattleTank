@@ -1,0 +1,8 @@
+ [{"ID":"1","Command":"PassMission","A":"","B":"","Descript":"\u6210\u529f\u901a\u5173\u5173\u5361"}
+,{"ID":"2","Command":"BattleDamage","A":"80","B":"","Descript":"\u90e8\u961f\u635f\u5931\u6570\u4f4e\u4e8e1%\u3002"}
+,{"ID":"3","Command":"BattleDamage","A":"50","B":"","Descript":"\u90e8\u961f\u635f\u5931\u6570\u4f4e\u4e8e1%\u3002"}
+,{"ID":"4","Command":"BattleDamage","A":"10","B":"","Descript":"\u90e8\u961f\u635f\u5931\u6570\u4f4e\u4e8e1%\u3002"}
+,{"ID":"5","Command":"BattleTime","A":"30","B":"","Descript":"\u6218\u6597\u65f6\u95f4\u5c0f\u4e8e1%\u79d2\u3002"}
+,{"ID":"6","Command":"BattleTime","A":"60","B":"","Descript":"\u6218\u6597\u65f6\u95f4\u5c0f\u4e8e1%\u79d2\u3002"}
+,{"ID":"7","Command":"BattleTime","A":"120","B":"","Descript":"\u6218\u6597\u65f6\u95f4\u5c0f\u4e8e1%\u79d2\u3002"}
+]

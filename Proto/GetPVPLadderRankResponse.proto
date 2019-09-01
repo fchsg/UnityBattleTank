@@ -1,0 +1,7 @@
+import "ApiResponse.proto";
+import "PVPUser.proto";
+
+message GetPVPLadderRankResponse{
+	optional ApiResponse response = 1;
+	repeated PVPUser pvpUser = 2;//排行榜上的用户信息
+}

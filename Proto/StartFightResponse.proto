@@ -1,0 +1,8 @@
+import "ApiResponse.proto";
+import "PVPUser.proto";
+
+message StartFightResponse{
+	optional ApiResponse response = 1;
+	optional int32 fightId = 2;//战斗ID，战斗结算时提交给后端
+	optional PVPUser pvpUser = 3;//PVP的选定对手变化时，下发最新的对应位置的数据
+}

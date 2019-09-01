@@ -1,0 +1,7 @@
+import "ApiResponse.proto";
+import "PrizeItem.proto";
+
+message DrawTaskRewardResponse{
+	optional ApiResponse response = 1;
+	repeated PrizeItem prizeItems = 2;//奖品的列表
+}

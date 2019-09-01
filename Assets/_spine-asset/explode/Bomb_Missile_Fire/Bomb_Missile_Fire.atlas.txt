@@ -1,0 +1,222 @@
+
+Bomb_Missile_Fire.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bomb_Missile_Fire_13
+  rotate: true
+  xy: 768, 573
+  size: 199, 251
+  orig: 201, 253
+  offset: 1, 1
+  index: -1
+Bomb_Missile_Fire_17
+  rotate: false
+  xy: 797, 292
+  size: 204, 279
+  orig: 206, 281
+  offset: 1, 1
+  index: -1
+Bomb_Missile_Fire_20
+  rotate: true
+  xy: 232, 52
+  size: 187, 281
+  orig: 189, 283
+  offset: 1, 1
+  index: -1
+Bomb_Missile_Fire_21
+  rotate: false
+  xy: 285, 471
+  size: 196, 294
+  orig: 198, 296
+  offset: 1, 1
+  index: -1
+Bomb_Missile_Fire_22
+  rotate: true
+  xy: 571, 38
+  size: 211, 293
+  orig: 213, 295
+  offset: 1, 1
+  index: -1
+Bomb_Missile_Fire_23
+  rotate: false
+  xy: 2, 706
+  size: 219, 294
+  orig: 221, 296
+  offset: 1, 1
+  index: -1
+Bomb_Missile_Fire_24
+  rotate: true
+  xy: 508, 774
+  size: 226, 293
+  orig: 228, 295
+  offset: 1, 1
+  index: -1
+Bomb_Missile_Fire_25
+  rotate: false
+  xy: 571, 251
+  size: 224, 285
+  orig: 226, 287
+  offset: 1, 1
+  index: -1
+Bomb_Missile_Fire_26
+  rotate: true
+  xy: 285, 241
+  size: 228, 284
+  orig: 230, 286
+  offset: 1, 1
+  index: -1
+Bomb_Missile_Fire_27
+  rotate: true
+  xy: 483, 538
+  size: 227, 283
+  orig: 229, 285
+  offset: 1, 1
+  index: -1
+Bomb_Missile_Fire_28
+  rotate: true
+  xy: 223, 767
+  size: 233, 283
+  orig: 235, 285
+  offset: 1, 1
+  index: -1
+Bomb_Missile_Fire_29
+  rotate: true
+  xy: 2, 470
+  size: 234, 281
+  orig: 236, 283
+  offset: 1, 1
+  index: -1
+Bomb_Missile_Fire_3
+  rotate: false
+  xy: 866, 131
+  size: 149, 159
+  orig: 151, 161
+  offset: 1, 1
+  index: -1
+Bomb_Missile_Fire_30
+  rotate: false
+  xy: 2, 187
+  size: 228, 281
+  orig: 230, 283
+  offset: 1, 1
+  index: -1
+Bomb_Missile_Fire_6
+  rotate: false
+  xy: 803, 785
+  size: 181, 215
+  orig: 183, 217
+  offset: 1, 1
+  index: -1
+Bomb_Missile_Fire_7
+  rotate: true
+  xy: 2, 2
+  size: 183, 227
+  orig: 185, 229
+  offset: 1, 1
+  index: -1
+
+Bomb_Missile_Fire2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bomb_Missile_Fire_1
+  rotate: false
+  xy: 565, 378
+  size: 195, 143
+  orig: 197, 145
+  offset: 1, 1
+  index: -1
+Bomb_Missile_Fire_10
+  rotate: false
+  xy: 200, 487
+  size: 190, 247
+  orig: 192, 249
+  offset: 1, 1
+  index: -1
+Bomb_Missile_Fire_11
+  rotate: false
+  xy: 2, 735
+  size: 196, 251
+  orig: 198, 253
+  offset: 1, 1
+  index: -1
+Bomb_Missile_Fire_12
+  rotate: false
+  xy: 2, 484
+  size: 196, 249
+  orig: 198, 251
+  offset: 1, 1
+  index: -1
+Bomb_Missile_Fire_14
+  rotate: false
+  xy: 200, 736
+  size: 197, 250
+  orig: 199, 252
+  offset: 1, 1
+  index: -1
+Bomb_Missile_Fire_15
+  rotate: false
+  xy: 399, 738
+  size: 198, 248
+  orig: 200, 250
+  offset: 1, 1
+  index: -1
+Bomb_Missile_Fire_16
+  rotate: false
+  xy: 599, 740
+  size: 199, 246
+  orig: 201, 248
+  offset: 1, 1
+  index: -1
+Bomb_Missile_Fire_18
+  rotate: false
+  xy: 2, 240
+  size: 195, 242
+  orig: 197, 244
+  offset: 1, 1
+  index: -1
+Bomb_Missile_Fire_19
+  rotate: false
+  xy: 565, 523
+  size: 179, 213
+  orig: 181, 215
+  offset: 1, 1
+  index: -1
+Bomb_Missile_Fire_2
+  rotate: true
+  xy: 392, 495
+  size: 239, 171
+  orig: 241, 173
+  offset: 1, 1
+  index: -1
+Bomb_Missile_Fire_4
+  rotate: false
+  xy: 762, 337
+  size: 168, 189
+  orig: 170, 191
+  offset: 1, 1
+  index: -1
+Bomb_Missile_Fire_5
+  rotate: false
+  xy: 746, 528
+  size: 182, 210
+  orig: 184, 212
+  offset: 1, 1
+  index: -1
+Bomb_Missile_Fire_8
+  rotate: false
+  xy: 2, 2
+  size: 187, 236
+  orig: 189, 238
+  offset: 1, 1
+  index: -1
+Bomb_Missile_Fire_9
+  rotate: false
+  xy: 800, 745
+  size: 189, 241
+  orig: 191, 243
+  offset: 1, 1
+  index: -1

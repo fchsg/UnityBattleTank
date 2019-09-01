@@ -1,0 +1,9 @@
+import "ApiResponse.proto";
+import "Unit.proto";
+import "Item.proto";
+
+message SyncResponse{
+	optional ApiResponse response = 1;
+	repeated Unit units = 2;//用户作战单位数据
+	repeated Item items = 3;//道具数据
+}

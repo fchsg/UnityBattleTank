@@ -1,0 +1,4 @@
+message Item{//道具
+    optional int32 itemId = 1;
+	optional int32 num = 2;
+}

@@ -1,0 +1,13 @@
+
+arrow_gules_beam.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrow_gules_beam
+  rotate: false
+  xy: 2, 2
+  size: 264, 71
+  orig: 266, 73
+  offset: 1, 1
+  index: -1

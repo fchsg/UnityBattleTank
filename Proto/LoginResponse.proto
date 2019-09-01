@@ -1,0 +1,18 @@
+import "ApiResponse.proto";
+import "Unit.proto";
+import "UnitGroup.proto";
+import "Mission.proto";
+import "Item.proto";
+import "Hero.proto";
+
+message LoginResponse{
+	optional ApiResponse response = 1;
+	optional string ticket = 2;//用户ticket，如果是注册接口的返回，ticket作为用户的device_id
+	repeated Unit units = 3;//用户作战单位数据
+	repeated UnitGroup unitGroups = 4;//编队数据
+	optional int32 repairEndTime = 5;//距离Unit维修结束时间（秒）
+    optional int32 repairTotalTime = 6;//当前Unit维修需要总时间（秒）
+    repeated Mission missons = 7;//用户的通关数据
+    repeated Item items = 8;//道具数据
+    repeated Hero heroes = 9;//英雄数据
+}

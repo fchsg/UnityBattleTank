@@ -1,0 +1,7 @@
+import "ApiRequest.proto";
+
+message UpgradeUnitPartRequest {//Unit维修、完成Unit维修时的请求
+	optional ApiRequest api = 1;//接口基础数据
+	optional int32 unitId = 2;//要升级的UnitID
+	optional int32 partIndex = 3;//部件的位置索引，和配置表中的位置对应，0-3
+}

@@ -1,0 +1,5 @@
+message Mission{//用户的关卡数据
+	optional int32 missonId = 1;
+	optional int32 star = 2;//星级评价，0表示未挑战过，非0是按位显示的获得星级状况
+	optional int32 remainFightNum = 3;//剩余挑战次数。默认普通关卡50，精英关卡20
+}

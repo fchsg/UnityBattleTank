@@ -1,0 +1,13 @@
+
+arrow_gules_in.png
+size: 128,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrow_gules_in
+  rotate: false
+  xy: 2, 2
+  size: 71, 263
+  orig: 73, 265
+  offset: 1, 1
+  index: -1

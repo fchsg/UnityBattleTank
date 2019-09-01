@@ -1,0 +1,7 @@
+import "ApiResponse.proto";
+import "MultiPrizeItem.proto";
+
+message ReadNotifyResponse{
+	optional ApiResponse response = 1;
+	repeated MultiPrizeItem prizeItems = 2;//如果有奖品，奖品的列表
+}

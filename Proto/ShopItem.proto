@@ -1,0 +1,9 @@
+message ShopItem{//商品
+    optional int32 posId = 1;//商品的位置ID，购买时提交给后端
+    optional int32 itemType = 2;//货物类型，参照TypeDefine
+	optional int32 itemID = 3;//货物ID，如果需要的话
+	optional int32 num = 4;//数量
+	optional int32 priceType = 5;//货币类型，参照TypeDefine
+	optional int32 price = 6;//价格
+	optional int32 isSold = 7;//是否已购买，0：未购买，1：已购买
+}

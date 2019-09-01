@@ -1,0 +1,5 @@
+import "ApiRequest.proto";
+
+message InitRequest{
+	optional ApiRequest api = 1;//接口基础数据
+}

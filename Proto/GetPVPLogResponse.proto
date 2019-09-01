@@ -1,0 +1,7 @@
+import "ApiResponse.proto";
+import "FightLog.proto";
+
+message GetPVPLogResponse{
+	optional ApiResponse response = 1;//结果
+	repeated FightLog fightLogs = 2;//战斗记录
+}

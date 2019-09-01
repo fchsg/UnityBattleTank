@@ -1,0 +1,20 @@
+import "Building.proto";
+
+message User{//用户数据定义
+	optional int32 userId = 1;//用户id
+	optional string userName = 2;//用户名称
+	optional int32 honor = 3;//当前总荣誉值
+	optional int32 energy = 4;//当前体力
+	optional int32 nextEnergy = 5;//下一次获得体力需要的秒数
+	optional int32 cash = 6;//主要需要付费的虚拟货币
+	optional int32 food = 7;//主要需要付费的虚拟货币
+	optional int32 oil = 8;//主要需要付费的虚拟货币
+	optional int32 metal = 9;//主要需要付费的虚拟货币
+	optional int32 rare = 10;//主要需要付费的虚拟货币
+	repeated Building buildings = 11;//建筑物数据
+	optional int32 buildingQueueNum = 12;//建筑建造队列数
+	optional int32 unitProduceQueueNum = 13;//战斗单位生产队列数
+	optional int32 headPicId = 14;//玩家头像的ID
+	optional int32 combat = 15;//天梯所奖励的战绩值
+	repeated int32 clientData = 16;//客户端需要的数据
+}

@@ -1,0 +1,5 @@
+import "PrizeItem.proto";
+
+message MultiPrizeItem{//下发多个批次奖品用
+	repeated PrizeItem prizeItems = 1;
+}

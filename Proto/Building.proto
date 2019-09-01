@@ -1,0 +1,10 @@
+import "Production.proto";
+
+message Building{//建筑物数据
+	optional int32 id = 1;//建筑id
+	optional int32 level = 2;//建筑等级
+	optional Production production = 3;//基本资源产出的数据，如果没有则表示无资源产出
+	optional int32 unlockedNextLevel = 4;//下一个等级是否已经解锁，0：未解锁；1：已解锁，可升级
+	optional int32 upgrading = 5;//是否正在升级过程中，0：不是；1：是
+	optional int32 endToUpgrade = 6;//距离升级结束剩余时间（秒）
+}

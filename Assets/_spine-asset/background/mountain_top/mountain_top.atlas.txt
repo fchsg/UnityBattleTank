@@ -1,0 +1,46 @@
+
+mountain_top.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mountain_ground_1
+  rotate: false
+  xy: 2, 2
+  size: 1020, 1020
+  orig: 1022, 1022
+  offset: 1, 1
+  index: -1
+
+mountain_top2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mountain_ground_2
+  rotate: false
+  xy: 2, 2
+  size: 1020, 1020
+  orig: 1022, 1022
+  offset: 1, 1
+  index: -1
+
+mountain_top3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mountain_ground_3
+  rotate: false
+  xy: 2, 2
+  size: 656, 1020
+  orig: 658, 1022
+  offset: 1, 1
+  index: -1
+tree_build
+  rotate: false
+  xy: 660, 712
+  size: 355, 310
+  orig: 357, 312
+  offset: 1, 1
+  index: -1

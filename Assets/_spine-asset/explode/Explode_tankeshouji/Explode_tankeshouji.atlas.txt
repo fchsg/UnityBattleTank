@@ -1,0 +1,118 @@
+
+Explode_tankeshouji.png
+size: 1024,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Explode_tankeshouji_1
+  rotate: true
+  xy: 713, 37
+  size: 24, 45
+  orig: 26, 47
+  offset: 1, 1
+  index: -1
+Explode_tankeshouji_10
+  rotate: false
+  xy: 368, 9
+  size: 53, 52
+  orig: 55, 54
+  offset: 1, 1
+  index: -1
+Explode_tankeshouji_11
+  rotate: false
+  xy: 310, 5
+  size: 56, 56
+  orig: 58, 58
+  offset: 1, 1
+  index: -1
+Explode_tankeshouji_12
+  rotate: false
+  xy: 251, 4
+  size: 57, 57
+  orig: 59, 59
+  offset: 1, 1
+  index: -1
+Explode_tankeshouji_13
+  rotate: false
+  xy: 190, 4
+  size: 59, 57
+  orig: 61, 59
+  offset: 1, 1
+  index: -1
+Explode_tankeshouji_14
+  rotate: false
+  xy: 68, 3
+  size: 59, 58
+  orig: 61, 60
+  offset: 1, 1
+  index: -1
+Explode_tankeshouji_15
+  rotate: true
+  xy: 2, 2
+  size: 59, 64
+  orig: 61, 66
+  offset: 1, 1
+  index: -1
+Explode_tankeshouji_16
+  rotate: false
+  xy: 129, 3
+  size: 59, 58
+  orig: 61, 60
+  offset: 1, 1
+  index: -1
+Explode_tankeshouji_2
+  rotate: true
+  xy: 662, 32
+  size: 29, 49
+  orig: 31, 51
+  offset: 1, 1
+  index: -1
+Explode_tankeshouji_3
+  rotate: true
+  xy: 800, 28
+  size: 33, 37
+  orig: 35, 39
+  offset: 1, 1
+  index: -1
+Explode_tankeshouji_4
+  rotate: true
+  xy: 760, 25
+  size: 36, 38
+  orig: 38, 40
+  offset: 1, 1
+  index: -1
+Explode_tankeshouji_5
+  rotate: false
+  xy: 620, 22
+  size: 40, 39
+  orig: 42, 41
+  offset: 1, 1
+  index: -1
+Explode_tankeshouji_6
+  rotate: false
+  xy: 576, 19
+  size: 42, 42
+  orig: 44, 44
+  offset: 1, 1
+  index: -1
+Explode_tankeshouji_7
+  rotate: false
+  xy: 527, 16
+  size: 47, 45
+  orig: 49, 47
+  offset: 1, 1
+  index: -1
+Explode_tankeshouji_8
+  rotate: false
+  xy: 476, 13
+  size: 49, 48
+  orig: 51, 50
+  offset: 1, 1
+  index: -1
+Explode_tankeshouji_9
+  rotate: false
+  xy: 423, 10
+  size: 51, 51
+  orig: 53, 53
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,7 @@
+import "ApiRequest.proto";
+
+message GetShopRequest{//取商店商品列表
+	optional ApiRequest api = 1;//接口基础数据
+	optional int32 shopId = 2;//商店ID
+	optional int32 refresh = 3;//是否需要刷新，0：不刷新，1：刷新
+}

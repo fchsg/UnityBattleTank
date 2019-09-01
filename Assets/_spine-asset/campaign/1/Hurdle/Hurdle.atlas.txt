@@ -1,0 +1,101 @@
+
+Hurdle.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background_2
+  rotate: false
+  xy: 2, 272
+  size: 834, 750
+  orig: 836, 752
+  offset: 1, 1
+  index: -1
+e
+  rotate: true
+  xy: 838, 687
+  size: 335, 132
+  orig: 337, 134
+  offset: 1, 1
+  index: -1
+g
+  rotate: false
+  xy: 477, 42
+  size: 341, 228
+  orig: 343, 230
+  offset: 1, 1
+  index: -1
+h
+  rotate: false
+  xy: 2, 2
+  size: 473, 268
+  orig: 475, 270
+  offset: 1, 1
+  index: -1
+i
+  rotate: true
+  xy: 838, 493
+  size: 192, 69
+  orig: 194, 71
+  offset: 1, 1
+  index: -1
+
+Hurdle2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 2, 278
+  size: 519, 734
+  orig: 521, 736
+  offset: 1, 1
+  index: -1
+c
+  rotate: false
+  xy: 523, 453
+  size: 365, 559
+  orig: 367, 561
+  offset: 1, 1
+  index: -1
+f
+  rotate: true
+  xy: 2, 2
+  size: 274, 750
+  orig: 276, 752
+  offset: 1, 1
+  index: -1
+
+Hurdle3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b
+  rotate: false
+  xy: 510, 187
+  size: 505, 565
+  orig: 507, 567
+  offset: 1, 1
+  index: -1
+background_1
+  rotate: false
+  xy: 2, 2
+  size: 506, 750
+  orig: 508, 752
+  offset: 1, 1
+  index: -1
+
+Hurdle4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d
+  rotate: false
+  xy: 2, 2
+  size: 546, 519
+  orig: 548, 521
+  offset: 1, 1
+  index: -1

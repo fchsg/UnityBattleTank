@@ -1,0 +1,6 @@
+import "ApiRequest.proto";
+
+message DelNotifyRequest{//将通知设置为删除
+	optional ApiRequest api = 1;//接口基础数据
+	repeated int32 notifyIds = 2;//需要删除的NotifyId列表
+}

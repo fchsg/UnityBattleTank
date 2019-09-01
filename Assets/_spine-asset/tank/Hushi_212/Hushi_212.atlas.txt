@@ -1,0 +1,104 @@
+
+Hushi_212.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hushi_212_Barrel_100
+  rotate: false
+  xy: 485, 90
+  size: 141, 49
+  orig: 143, 51
+  offset: 1, 1
+  index: -1
+Hushi_212_Barrel_110
+  rotate: false
+  xy: 165, 55
+  size: 148, 70
+  orig: 150, 72
+  offset: 1, 1
+  index: -1
+Hushi_212_Barrel_120
+  rotate: false
+  xy: 446, 17
+  size: 128, 71
+  orig: 130, 73
+  offset: 1, 1
+  index: -1
+Hushi_212_Barrel_60
+  rotate: false
+  xy: 315, 21
+  size: 129, 71
+  orig: 131, 73
+  offset: 1, 1
+  index: -1
+Hushi_212_Barrel_70
+  rotate: false
+  xy: 817, 103
+  size: 136, 57
+  orig: 138, 59
+  offset: 1, 1
+  index: -1
+Hushi_212_Barrel_80
+  rotate: false
+  xy: 165, 2
+  size: 142, 51
+  orig: 144, 53
+  offset: 1, 1
+  index: -1
+Hushi_212_Barrel_90
+  rotate: false
+  xy: 341, 94
+  size: 142, 49
+  orig: 144, 51
+  offset: 1, 1
+  index: -1
+Hushi_212_Base_100
+  rotate: false
+  xy: 341, 145
+  size: 162, 102
+  orig: 164, 104
+  offset: 1, 1
+  index: -1
+Hushi_212_Base_110
+  rotate: false
+  xy: 505, 141
+  size: 158, 106
+  orig: 160, 108
+  offset: 1, 1
+  index: -1
+Hushi_212_Base_120
+  rotate: false
+  xy: 181, 127
+  size: 158, 120
+  orig: 160, 122
+  offset: 1, 1
+  index: -1
+Hushi_212_Base_60
+  rotate: false
+  xy: 2, 10
+  size: 161, 121
+  orig: 163, 123
+  offset: 1, 1
+  index: -1
+Hushi_212_Base_70
+  rotate: false
+  xy: 2, 133
+  size: 177, 114
+  orig: 179, 116
+  offset: 1, 1
+  index: -1
+Hushi_212_Base_80
+  rotate: false
+  xy: 665, 144
+  size: 150, 103
+  orig: 152, 105
+  offset: 1, 1
+  index: -1
+Hushi_212_Base_90
+  rotate: false
+  xy: 817, 162
+  size: 145, 85
+  orig: 147, 87
+  offset: 1, 1
+  index: -1

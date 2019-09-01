@@ -1,0 +1,7 @@
+message FightLog{//PVP战斗记录
+	optional string oppUserName = 1;//对手的用户名
+	optional int32 timeToNow = 2;//距现在的时间（秒）
+	optional int32 fightResult= 3;//战斗结果，0：战斗失败，1：战斗胜利
+	optional int32 direct = 4;//攻击方向，0：玩家被挑战，1：玩家发起挑战
+	optional int32 rankChange = 5;//排名的变化，挑战成功的话是排名上升了多少，被击败的话是排名下降了多少
+}

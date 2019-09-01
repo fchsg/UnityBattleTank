@@ -1,0 +1,8 @@
+import "ApiRequest.proto";
+
+message UseItemRequest{//使用主动道具
+	optional ApiRequest api = 1;
+	optional int32 itemId = 2;
+	optional int32 num = 3;//使用的数量
+	optional int32 target = 4;//特殊情况下的目标数据，例如获得Exp时是目标heroId
+}

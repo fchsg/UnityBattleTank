@@ -1,0 +1,20 @@
+
+Tank_blood.png
+size: 512,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tank_blood_blue
+  rotate: false
+  xy: 2, 2
+  size: 140, 15
+  orig: 142, 17
+  offset: 1, 1
+  index: -1
+Tank_blood_red
+  rotate: false
+  xy: 144, 2
+  size: 140, 15
+  orig: 142, 17
+  offset: 1, 1
+  index: -1

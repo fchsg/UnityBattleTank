@@ -1,0 +1,7 @@
+import "ApiRequest.proto";
+import "UnitGroup.proto";
+
+message SetUnitGroupRequest{//设置某个队伍位置的Unit
+	optional ApiRequest api = 1;//接口基础数据
+	repeated UnitGroup unitGroup = 2;//队伍数据
+}

@@ -1,0 +1,6 @@
+import "ApiRequest.proto";
+
+message DrawProductionRequest{
+	optional ApiRequest api = 1;//接口基础数据
+	optional int32 resourceType = 2;//要收取的资源类型
+}

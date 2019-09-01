@@ -1,0 +1,55 @@
+
+Hunter.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hunter_Base_100
+  rotate: true
+  xy: 311, 2
+  size: 310, 174
+  orig: 312, 176
+  offset: 1, 1
+  index: -1
+Hunter_Base_110
+  rotate: false
+  xy: 629, 316
+  size: 305, 194
+  orig: 307, 196
+  offset: 1, 1
+  index: -1
+Hunter_Base_120
+  rotate: false
+  xy: 2, 76
+  size: 303, 218
+  orig: 305, 220
+  offset: 1, 1
+  index: -1
+Hunter_Base_60
+  rotate: false
+  xy: 2, 296
+  size: 307, 214
+  orig: 309, 216
+  offset: 1, 1
+  index: -1
+Hunter_Base_70
+  rotate: false
+  xy: 311, 314
+  size: 316, 196
+  orig: 318, 198
+  offset: 1, 1
+  index: -1
+Hunter_Base_80
+  rotate: false
+  xy: 640, 142
+  size: 313, 172
+  orig: 315, 174
+  offset: 1, 1
+  index: -1
+Hunter_Base_90
+  rotate: true
+  xy: 487, 6
+  size: 306, 151
+  orig: 308, 153
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,7 @@
+import "ApiResponse.proto";
+import "Notify.proto";
+
+message GetNotifyResponse{
+	optional ApiResponse response = 1;
+	repeated Notify notifies = 2;//通知列表
+}

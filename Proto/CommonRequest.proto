@@ -1,0 +1,5 @@
+import "ApiRequest.proto";
+
+message CommonRequest{//通常无附加参数的请求，仅包含ApiRequest
+	optional ApiRequest api = 1;//接口基础数据
+}

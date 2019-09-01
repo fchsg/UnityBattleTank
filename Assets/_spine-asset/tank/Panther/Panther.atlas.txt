@@ -1,0 +1,104 @@
+
+Panther.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Panther_Barrel_100
+  rotate: false
+  xy: 611, 431
+  size: 236, 79
+  orig: 238, 81
+  offset: 1, 1
+  index: -1
+Panther_Barrel_110
+  rotate: false
+  xy: 375, 566
+  size: 232, 98
+  orig: 234, 100
+  offset: 1, 1
+  index: -1
+Panther_Barrel_120
+  rotate: false
+  xy: 375, 666
+  size: 222, 119
+  orig: 224, 121
+  offset: 1, 1
+  index: -1
+Panther_Barrel_60
+  rotate: false
+  xy: 599, 689
+  size: 214, 118
+  orig: 216, 120
+  offset: 1, 1
+  index: -1
+Panther_Barrel_70
+  rotate: false
+  xy: 609, 593
+  size: 227, 94
+  orig: 229, 96
+  offset: 1, 1
+  index: -1
+Panther_Barrel_80
+  rotate: false
+  xy: 375, 482
+  size: 234, 82
+  orig: 236, 84
+  offset: 1, 1
+  index: -1
+Panther_Barrel_90
+  rotate: false
+  xy: 611, 512
+  size: 233, 79
+  orig: 235, 81
+  offset: 1, 1
+  index: -1
+Panther_Base_100
+  rotate: false
+  xy: 2, 2
+  size: 283, 175
+  orig: 285, 177
+  offset: 1, 1
+  index: -1
+Panther_Base_110
+  rotate: true
+  xy: 2, 179
+  size: 289, 193
+  orig: 291, 195
+  offset: 1, 1
+  index: -1
+Panther_Base_120
+  rotate: true
+  xy: 2, 470
+  size: 297, 215
+  orig: 299, 217
+  offset: 1, 1
+  index: -1
+Panther_Base_60
+  rotate: false
+  xy: 2, 769
+  size: 296, 217
+  orig: 298, 219
+  offset: 1, 1
+  index: -1
+Panther_Base_70
+  rotate: false
+  xy: 300, 787
+  size: 297, 199
+  orig: 299, 201
+  offset: 1, 1
+  index: -1
+Panther_Base_80
+  rotate: false
+  xy: 599, 809
+  size: 288, 177
+  orig: 290, 179
+  offset: 1, 1
+  index: -1
+Panther_Base_90
+  rotate: true
+  xy: 219, 492
+  size: 275, 154
+  orig: 277, 156
+  offset: 1, 1
+  index: -1

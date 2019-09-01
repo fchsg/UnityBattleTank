@@ -1,0 +1,11 @@
+ [{"ID":"1","Tank":"1","Gun":"0.8","Missile":"0.6","Cannon":"0.4","Unknown":"0.1","Quality":"1","Skill":"1"}
+,{"ID":"2","Tank":"0.8","Gun":"1","Missile":"0.8","Cannon":"0.6","Unknown":"0.4","Quality":"2","Skill":"2"}
+,{"ID":"3","Tank":"0.7","Gun":"0.6","Missile":"1","Cannon":"0.8","Unknown":"0.6","Quality":"3","Skill":"3"}
+,{"ID":"4","Tank":"0.6","Gun":"0.3","Missile":"0.2","Cannon":"1","Unknown":"0.8","Quality":"4","Skill":"1"}
+,{"ID":"5","Tank":"0.5","Gun":"0.5","Missile":"0.2","Cannon":"0.4","Unknown":"1","Quality":"5","Skill":"2"}
+,{"ID":"6","Tank":"1","Gun":"0.8","Missile":"0.2","Cannon":"0.4","Unknown":"0.1","Quality":"4","Skill":"3"}
+,{"ID":"7","Tank":"0.3","Gun":"1","Missile":"0.2","Cannon":"0.4","Unknown":"0.1","Quality":"5","Skill":"1"}
+,{"ID":"8","Tank":"0.2","Gun":"0.1","Missile":"1","Cannon":"0.4","Unknown":"0.1","Quality":"4","Skill":"2"}
+,{"ID":"9","Tank":"0.1","Gun":"0.3","Missile":"0.4","Cannon":"1","Unknown":"0.1","Quality":"5","Skill":"3"}
+,{"ID":"10","Tank":"0.5","Gun":"0.2","Missile":"0.2","Cannon":"0.4","Unknown":"1","Quality":"4","Skill":"3"}
+]

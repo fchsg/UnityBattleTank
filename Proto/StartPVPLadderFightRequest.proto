@@ -1,0 +1,8 @@
+import "ApiRequest.proto";
+
+message StartPVPLadderFightRequest{//战斗开始请求
+	optional ApiRequest api = 1;//接口基础数据
+	optional int32 oppUserId = 2;//对手的UserID
+	optional int32 rank = 3;//对手的rank
+	optional int32 teamId = 4;//所使用的Unit编队ID
+}

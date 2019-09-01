@@ -1,0 +1,7 @@
+import "ApiRequest.proto";
+import "Production.proto";
+
+message QuickBuyRequest{
+	optional ApiRequest api = 1;//接口基础数据
+	repeated Production buy = 2;//要购买的资源描述
+}

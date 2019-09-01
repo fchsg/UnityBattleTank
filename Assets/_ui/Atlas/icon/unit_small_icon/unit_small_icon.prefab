@@ -1,0 +1,332 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &160624
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 460624}
+  - 114: {fileID: 11460624}
+  m_Layer: 0
+  m_Name: unit_small_icon
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &460624
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 160624}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11460624
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 160624}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: c4d26f702ba0f4c5b93a692e521ec8f8, type: 2}
+  mSprites:
+  - name: unit_small_1
+    x: 0
+    y: 916
+    width: 168
+    height: 108
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 41
+    paddingRight: 41
+    paddingTop: 1
+    paddingBottom: 1
+  - name: unit_small_10
+    x: 676
+    y: 718
+    width: 214
+    height: 103
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 36
+    paddingRight: 0
+    paddingTop: 5
+    paddingBottom: 2
+  - name: unit_small_11
+    x: 215
+    y: 718
+    width: 200
+    height: 98
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 32
+    paddingRight: 18
+    paddingTop: 10
+    paddingBottom: 2
+  - name: unit_small_12
+    x: 631
+    y: 609
+    width: 168
+    height: 108
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 41
+    paddingRight: 41
+    paddingTop: 1
+    paddingBottom: 1
+  - name: unit_small_13
+    x: 0
+    y: 490
+    width: 168
+    height: 108
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 41
+    paddingRight: 41
+    paddingTop: 1
+    paddingBottom: 1
+  - name: unit_small_14
+    x: 338
+    y: 926
+    width: 200
+    height: 98
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 32
+    paddingRight: 18
+    paddingTop: 10
+    paddingBottom: 2
+  - name: unit_small_15
+    x: 0
+    y: 708
+    width: 214
+    height: 103
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 36
+    paddingRight: 0
+    paddingTop: 5
+    paddingBottom: 2
+  - name: unit_small_16
+    x: 0
+    y: 812
+    width: 214
+    height: 103
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 36
+    paddingRight: 0
+    paddingTop: 5
+    paddingBottom: 2
+  - name: unit_small_17
+    x: 338
+    y: 817
+    width: 168
+    height: 108
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 41
+    paddingRight: 41
+    paddingTop: 1
+    paddingBottom: 1
+  - name: unit_small_18
+    x: 169
+    y: 520
+    width: 200
+    height: 98
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 32
+    paddingRight: 18
+    paddingTop: 10
+    paddingBottom: 2
+  - name: unit_small_19
+    x: 215
+    y: 619
+    width: 200
+    height: 98
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 32
+    paddingRight: 18
+    paddingTop: 10
+    paddingBottom: 2
+  - name: unit_small_2
+    x: 676
+    y: 822
+    width: 200
+    height: 98
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 32
+    paddingRight: 18
+    paddingTop: 10
+    paddingBottom: 2
+  - name: unit_small_20
+    x: 416
+    y: 713
+    width: 214
+    height: 103
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 36
+    paddingRight: 0
+    paddingTop: 5
+    paddingBottom: 2
+  - name: unit_small_21
+    x: 0
+    y: 599
+    width: 168
+    height: 108
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 41
+    paddingRight: 41
+    paddingTop: 1
+    paddingBottom: 1
+  - name: unit_small_3
+    x: 416
+    y: 609
+    width: 214
+    height: 103
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 36
+    paddingRight: 0
+    paddingTop: 5
+    paddingBottom: 2
+  - name: unit_small_4
+    x: 740
+    y: 921
+    width: 214
+    height: 103
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 36
+    paddingRight: 0
+    paddingTop: 5
+    paddingBottom: 2
+  - name: unit_small_5
+    x: 169
+    y: 916
+    width: 168
+    height: 108
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 41
+    paddingRight: 41
+    paddingTop: 1
+    paddingBottom: 1
+  - name: unit_small_6
+    x: 800
+    y: 515
+    width: 200
+    height: 98
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 32
+    paddingRight: 18
+    paddingTop: 10
+    paddingBottom: 2
+  - name: unit_small_7
+    x: 539
+    y: 926
+    width: 200
+    height: 98
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 32
+    paddingRight: 18
+    paddingTop: 10
+    paddingBottom: 2
+  - name: unit_small_8
+    x: 800
+    y: 614
+    width: 214
+    height: 103
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 36
+    paddingRight: 0
+    paddingTop: 5
+    paddingBottom: 2
+  - name: unit_small_9
+    x: 507
+    y: 817
+    width: 168
+    height: 108
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 41
+    paddingRight: 41
+    paddingTop: 1
+    paddingBottom: 1
+  mPixelSize: 1
+  mReplacement: {fileID: 0}
+  mCoordinates: 0
+  sprites: []
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 160624}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

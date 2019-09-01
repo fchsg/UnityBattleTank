@@ -1,0 +1,74 @@
+
+snow_top.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+snow_ground_1
+  rotate: false
+  xy: 2, 2
+  size: 1020, 1020
+  orig: 1022, 1022
+  offset: 1, 1
+  index: -1
+
+snow_top2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+snow_ground_2
+  rotate: false
+  xy: 2, 2
+  size: 1020, 1020
+  orig: 1022, 1022
+  offset: 1, 1
+  index: -1
+
+snow_top3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+snow_build_1
+  rotate: false
+  xy: 660, 879
+  size: 168, 143
+  orig: 170, 145
+  offset: 1, 1
+  index: -1
+snow_build_2
+  rotate: false
+  xy: 830, 969
+  size: 87, 53
+  orig: 89, 55
+  offset: 1, 1
+  index: -1
+snow_build_3
+  rotate: false
+  xy: 660, 755
+  size: 83, 35
+  orig: 85, 37
+  offset: 1, 1
+  index: -1
+snow_build_4
+  rotate: false
+  xy: 660, 792
+  size: 161, 85
+  orig: 163, 87
+  offset: 1, 1
+  index: -1
+snow_build_5
+  rotate: false
+  xy: 830, 955
+  size: 32, 12
+  orig: 34, 14
+  offset: 1, 1
+  index: -1
+snow_ground_3
+  rotate: false
+  xy: 2, 2
+  size: 656, 1020
+  orig: 658, 1022
+  offset: 1, 1
+  index: -1

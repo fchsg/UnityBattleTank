@@ -1,0 +1,15 @@
+ [{"Type":"","ID":"1","TeamsID":"1","Evaluate":"5000","PowerScale":"1","Rank":"5000","Honor":"50","Cash":"10","Combat":"500","Item":"","ItemNum":"","DropGroup":"16"}
+,{"Type":"","ID":"2","TeamsID":"2","Evaluate":"5000","PowerScale":"1","Rank":"4000","Honor":"50","Cash":"20","Combat":"500","Item":"","ItemNum":"","DropGroup":"17"}
+,{"Type":"","ID":"3","TeamsID":"3","Evaluate":"5000","PowerScale":"1","Rank":"3000","Honor":"60","Cash":"30","Combat":"600","Item":"","ItemNum":"","DropGroup":"18"}
+,{"Type":"","ID":"4","TeamsID":"4","Evaluate":"5000","PowerScale":"1","Rank":"2000","Honor":"70","Cash":"40","Combat":"700","Item":"","ItemNum":"","DropGroup":"19"}
+,{"Type":"","ID":"5","TeamsID":"5","Evaluate":"5000","PowerScale":"1","Rank":"1000","Honor":"80","Cash":"50","Combat":"800","Item":"","ItemNum":"","DropGroup":"20"}
+,{"Type":"","ID":"6","TeamsID":"6","Evaluate":"6000","PowerScale":"1","Rank":"500","Honor":"90","Cash":"60","Combat":"900","Item":"","ItemNum":"","DropGroup":"21"}
+,{"Type":"","ID":"7","TeamsID":"7","Evaluate":"7000","PowerScale":"1","Rank":"200","Honor":"100","Cash":"70","Combat":"1000","Item":"","ItemNum":"","DropGroup":"22"}
+,{"Type":"","ID":"8","TeamsID":"5","Evaluate":"8000","PowerScale":"1","Rank":"100","Honor":"200","Cash":"80","Combat":"1100","Item":"","ItemNum":"","DropGroup":"23"}
+,{"Type":"","ID":"9","TeamsID":"6","Evaluate":"10000","PowerScale":"1","Rank":"50","Honor":"300","Cash":"90","Combat":"1200","Item":"","ItemNum":"","DropGroup":"24"}
+,{"Type":"","ID":"10","TeamsID":"7","Evaluate":"12000","PowerScale":"1","Rank":"10","Honor":"400","Cash":"100","Combat":"1400","Item":"210006","ItemNum":"2","DropGroup":"25"}
+,{"Type":"","ID":"11","TeamsID":"5","Evaluate":"14000","PowerScale":"2","Rank":"6","Honor":"500","Cash":"110","Combat":"1600","Item":"210007","ItemNum":"4","DropGroup":"26"}
+,{"Type":"","ID":"12","TeamsID":"6","Evaluate":"16000","PowerScale":"3","Rank":"3","Honor":"600","Cash":"120","Combat":"2000","Item":"210008","ItemNum":"6","DropGroup":"27"}
+,{"Type":"","ID":"13","TeamsID":"7","Evaluate":"18000","PowerScale":"4","Rank":"2","Honor":"800","Cash":"130","Combat":"2500","Item":"210009","ItemNum":"8","DropGroup":"28"}
+,{"Type":"","ID":"14","TeamsID":"8","Evaluate":"20000","PowerScale":"5","Rank":"1","Honor":"1000","Cash":"140","Combat":"3000","Item":"210010","ItemNum":"10","DropGroup":"29"}
+]

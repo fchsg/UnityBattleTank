@@ -1,0 +1,6 @@
+import "ApiRequest.proto";
+
+message GetNotifyRequest{
+	optional ApiRequest api = 1;//接口基础数据
+	optional int32 beginNotifyId = 2;//需要提取的起始NotifyId，0代表提取全部
+}

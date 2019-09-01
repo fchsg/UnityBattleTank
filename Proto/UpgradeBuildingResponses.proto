@@ -1,0 +1,9 @@
+import "ApiResponse.proto";
+import "Unlock.proto";
+import "Unit.proto";
+
+message UpgradeBuildingResponses{
+	optional ApiResponse response = 1;//结果
+	repeated Unlock unlock = 2;//被解锁的内容
+	repeated Unit units = 3;//军工厂的升级如果涉及到新的Unit生产的解锁,被解锁的Unit数据
+}

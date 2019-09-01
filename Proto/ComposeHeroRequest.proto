@@ -1,0 +1,6 @@
+import "ApiRequest.proto";
+
+message ComposeHeroRequest{//从Hero碎片道具合成Hero
+	optional ApiRequest api = 1;//接口基础数据
+	optional int32 heroId = 2;//目标Hero的ID
+}

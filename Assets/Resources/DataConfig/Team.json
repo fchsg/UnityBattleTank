@@ -1,0 +1,9 @@
+ [{"Type":"","ID":"1","EnemiesID":"1\/1\/3\/1\/1\/1","EnemiesCount":"10\/10\/10\/10\/10\/10","Asset":"","Evaluate":"1000"}
+,{"Type":"","ID":"2","EnemiesID":"1\/2\/4\/1\/2\/4","EnemiesCount":"12\/12\/12\/12\/12\/12","Asset":"","Evaluate":"1500"}
+,{"Type":"","ID":"3","EnemiesID":"3\/2\/1\/4\/1\/3","EnemiesCount":"15\/15\/15\/15\/15\/15","Asset":"","Evaluate":"2000"}
+,{"Type":"","ID":"4","EnemiesID":"2\/2\/2\/3\/3\/3","EnemiesCount":"18\/18\/18\/18\/18\/18","Asset":"","Evaluate":"2500"}
+,{"Type":"","ID":"5","EnemiesID":"3\/3\/3\/3\/3\/3","EnemiesCount":"20\/20\/20\/20\/20\/20","Asset":"","Evaluate":"3000"}
+,{"Type":"","ID":"6","EnemiesID":"5\/5\/5\/5\/5\/5","EnemiesCount":"25\/25\/25\/25\/25\/25","Asset":"","Evaluate":"3500"}
+,{"Type":"","ID":"7","EnemiesID":"6\/6\/6\/6\/6\/6","EnemiesCount":"30\/30\/30\/30\/30\/30","Asset":"","Evaluate":"4000"}
+,{"Type":"","ID":"8","EnemiesID":"7\/7\/7\/8\/8\/8","EnemiesCount":"35\/35\/35\/35\/35\/35","Asset":"","Evaluate":"4500"}
+]

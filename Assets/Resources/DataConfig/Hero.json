@@ -1,0 +1,11 @@
+ [{"Type":"18","ID":"1","Name":"\u8499\u54e5\u9a6c\u5229","Arms":"1","AP":"100","DP":"100","HP":"1000","HitRate":"0","DodgeRate":"0","DoubleDamageRate":"0","Leadership":"10","":""}
+,{"Type":"18","ID":"2","Name":"\u6731\u53ef\u592b","Arms":"2","AP":"110","DP":"110","HP":"1100","HitRate":"0","DodgeRate":"0","DoubleDamageRate":"0","Leadership":"15","":""}
+,{"Type":"18","ID":"3","Name":"\u9686\u7f8e\u5c14","Arms":"3","AP":"120","DP":"120","HP":"1200","HitRate":"0","DodgeRate":"0","DoubleDamageRate":"0","Leadership":"20","":""}
+,{"Type":"18","ID":"4","Name":"\u5c71\u672c\u4e94\u5341\u516d","Arms":"4","AP":"130","DP":"130","HP":"1300","HitRate":"0","DodgeRate":"0","DoubleDamageRate":"0","Leadership":"25","":""}
+,{"Type":"18","ID":"5","Name":"\u53e4\u5fb7\u91cc\u5b89","Arms":"5","AP":"140","DP":"140","HP":"1400","HitRate":"0","DodgeRate":"0","DoubleDamageRate":"0","Leadership":"30","":""}
+,{"Type":"18","ID":"6","Name":"\u827e\u68ee\u8c6a\u5a01\u5c14","Arms":"1","AP":"150","DP":"150","HP":"1500","HitRate":"0","DodgeRate":"0","DoubleDamageRate":"0","Leadership":"35","":""}
+,{"Type":"18","ID":"7","Name":"\u9ea6\u514b\u963f\u745f","Arms":"2","AP":"160","DP":"160","HP":"1600","HitRate":"0","DodgeRate":"0","DoubleDamageRate":"0","Leadership":"40","":""}
+,{"Type":"18","ID":"8","Name":"\u5df4\u987f","Arms":"3","AP":"170","DP":"170","HP":"1700","HitRate":"0","DodgeRate":"0","DoubleDamageRate":"0","Leadership":"45","":""}
+,{"Type":"18","ID":"9","Name":"\u5e03\u83b1\u5fb7\u96f7","Arms":"4","AP":"180","DP":"180","HP":"1800","HitRate":"0","DodgeRate":"0","DoubleDamageRate":"0","Leadership":"50","":""}
+,{"Type":"18","ID":"10","Name":"\u5c3c\u7c73\u5179","Arms":"5","AP":"190","DP":"190","HP":"1900","HitRate":"0","DodgeRate":"0","DoubleDamageRate":"0","Leadership":"55","":""}
+]

@@ -1,0 +1,7 @@
+import "ApiRequest.proto";
+
+message BuyShopItemRequest{//购买商店商品
+	optional ApiRequest api = 1;//接口基础数据
+	optional int32 shopId = 2;//商店ID
+	optional int32 posId = 3;//商品的位置ID
+}

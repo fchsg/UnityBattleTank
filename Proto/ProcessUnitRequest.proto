@@ -1,0 +1,8 @@
+import "ApiRequest.proto";
+
+message ProcessUnitRequest{//Unit信息读取、生产、维修、解散时的请求
+	optional ApiRequest api = 1;//接口基础数据
+	optional int32 unitId = 2;
+	optional int32 num = 3;//生产，维修，解散的数量
+	optional int32 buyCd = 4;//是否消耗cash忽略剩余CD时间直接完成，1：是；0：否
+}

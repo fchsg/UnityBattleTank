@@ -1,0 +1,15 @@
+import "UnitGroup.proto";
+import "Unit.proto";
+import "Hero.proto";
+
+message PVPUser{//PVP相关用户数据
+	optional int32 userId = 1;//用户id
+    optional string userName = 2;//用户名称
+    optional int32 headPicId = 3;//用户名称
+    optional int32 honor = 4;//用户荣誉值
+    optional int32 rank = 5;//当前名次
+    optional int32 fightPower = 6;//战力
+    repeated UnitGroup unitGroups = 7;//编队数据
+    repeated Unit units = 8;//UnitGroup里包含的Unit的UnitPart等级数据
+    repeated Hero heroes = 9;//UnitGroup里包含的Hero的数据
+}

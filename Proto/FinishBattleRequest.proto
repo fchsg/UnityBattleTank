@@ -1,0 +1,10 @@
+import "ApiRequest.proto";
+import "UnitGroup.proto";
+
+message FinishBattleRequest{//战斗结算请求
+	optional ApiRequest api = 1;//接口基础数据
+	optional int32 fightId = 2;//战斗ID
+	repeated UnitGroup unitGroup = 3;//队伍发生了战损的数据
+	optional int32 fightResult = 4;//战斗结果，0：失败，1：胜利，2：同步战损数据
+	optional int32 star = 5;//星级评价，0表示未挑战过，非0是按位显示的获得星级状况
+}

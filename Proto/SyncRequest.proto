@@ -1,0 +1,8 @@
+import "ApiRequest.proto";
+
+message SyncRequest{//数据同步请求
+	optional ApiRequest api = 1;//接口基础数据
+	repeated int32 types = 2;//请求的目标数据类型，参照TypeDefine，针对7-13的只有num维度的数据
+	repeated int32 unitIds = 3;//请求同步Unit数据时的UnitId数组
+	repeated int32 items = 4;//请求同步Item数据时的ItemId数组
+}
