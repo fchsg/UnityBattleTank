@@ -2,9 +2,10 @@
 
 ## Game images
 
-[![Promo](/images/gif/0.gif)]
+[![Promo](/Images/gif/0.gif)]
 
-[![Promo](/images/gif/1.gif)]
+
+[![Promo](/Images/gif/1.gif)]
 
 
 ## Client
