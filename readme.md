@@ -23,7 +23,7 @@
 
 ## Code Path
 
-### [c# code path](UnityBattleTank/Assets/script/)⁩
+### [c# code path](Assets/script/)⁩
 
 ## Example code
 
